@@ -1,5 +1,10 @@
-# Faculdade - Banco-de-Dados
+# Faculdade - Banco de Dados
 
-## Este aqui é o repositório da matéria de Banco de Dados I e II
+## Repositório da Matéria de Banco de Dados I e II
 
-Todo conteudo abordado em aula na Faculdade de Engenharia de Software que salvei, colocarei aqui.
+Este repositório contém todo o conteúdo abordado nas aulas das disciplinas de Banco de Dados I e II do curso de Engenharia de Software.
+
+### Descrição
+
+Aqui você encontrará materiais, anotações, exercícios e projetos relacionados ao curso de Banco de Dados. O objetivo deste repositório é centralizar e organizar todos os recursos estudados durante as aulas para facilitar o acesso e o estudo.
+
